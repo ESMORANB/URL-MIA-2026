@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MIA_Lab_5\\project\\Lab5\\Lab5.csproj",
+      "projectUniqueName": "C:\\MIA_Lab_5\\URL-MIA-2026\\Lab5\\Lab5.csproj",
       "projectName": "Lab5",
-      "projectPath": "C:\\MIA_Lab_5\\project\\Lab5\\Lab5.csproj",
+      "projectPath": "C:\\MIA_Lab_5\\URL-MIA-2026\\Lab5\\Lab5.csproj",
       "packagesPath": "C:\\Users\\esmor\\.nuget\\packages\\",
-      "outputPath": "C:\\MIA_Lab_5\\project\\Lab5\\obj\\",
+      "outputPath": "C:\\MIA_Lab_5\\URL-MIA-2026\\Lab5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
